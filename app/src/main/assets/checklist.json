@@ -1,0 +1,169 @@
+{
+  "aircraft": "Cessna 172 (generic)",
+  "disclaimer": "FOR TRAINING/REFERENCE. Always follow the official POH/AFM for your exact model.",
+  "sections": [
+    {
+      "id": "preflight",
+      "title": "Preflight (Exterior)",
+      "items": [
+        "Documents \u2013 CHECK (ARROW)",
+        "Control lock \u2013 REMOVE",
+        "Fuel quantity \u2013 CHECK visually",
+        "Fuel caps \u2013 SECURE",
+        "Fuel drains \u2013 SUMP & CHECK",
+        "Oil level \u2013 CHECK (as per POH)",
+        "Tyres/Brakes \u2013 CHECK",
+        "Flight controls \u2013 FREE & CORRECT",
+        "Pitot/Static \u2013 CLEAR",
+        "Lights/Antennas \u2013 CHECK",
+        "Baggage door \u2013 SECURE"
+      ]
+    },
+    {
+      "id": "before_start",
+      "title": "Before Start",
+      "items": [
+        "Seats/Belts \u2013 ADJUST & SECURE",
+        "Circuit breakers \u2013 IN",
+        "Avionics \u2013 OFF",
+        "Fuel selector \u2013 BOTH (as per POH)",
+        "Beacon \u2013 ON",
+        "Brakes \u2013 TEST & SET"
+      ]
+    },
+    {
+      "id": "engine_start",
+      "title": "Engine Start",
+      "items": [
+        "Throttle \u2013 OPEN 1/4 IN",
+        "Mixture \u2013 RICH (or per POH)",
+        "Prime \u2013 AS REQUIRED",
+        "Master \u2013 ON",
+        "Prop area \u2013 CLEAR",
+        "Starter \u2013 ENGAGE",
+        "Oil pressure \u2013 CHECK (green)",
+        "Mixture \u2013 SET (as required)",
+        "Avionics \u2013 ON"
+      ]
+    },
+    {
+      "id": "taxi",
+      "title": "Taxi",
+      "items": [
+        "Brakes \u2013 RELEASE & TEST",
+        "Instruments \u2013 CHECK moving",
+        "Steering \u2013 CHECK",
+        "HSI/Compass \u2013 ALIGNED"
+      ]
+    },
+    {
+      "id": "runup",
+      "title": "Run-up",
+      "items": [
+        "Parking brake \u2013 SET",
+        "Mixture \u2013 SET for field elev",
+        "Throttle \u2013 1700 RPM",
+        "Mags \u2013 CHECK (drop per POH)",
+        "Carb heat \u2013 CHECK (if fitted)",
+        "Engine instruments \u2013 CHECK",
+        "Ammeter/Volts \u2013 CHECK",
+        "Vacuum \u2013 CHECK",
+        "Idle \u2013 CHECK",
+        "Flight controls \u2013 FREE & CORRECT",
+        "Trim \u2013 SET for T/O"
+      ]
+    },
+    {
+      "id": "before_takeoff",
+      "title": "Before Takeoff",
+      "items": [
+        "Doors/Windows \u2013 LATCHED",
+        "Seat belts/harness \u2013 SECURE",
+        "Fuel selector \u2013 BOTH",
+        "Mixture \u2013 RICH (or per POH)",
+        "Flaps \u2013 SET (as required)",
+        "Transponder \u2013 ALT",
+        "Landing light \u2013 ON",
+        "Takeoff brief \u2013 COMPLETE"
+      ]
+    },
+    {
+      "id": "climb",
+      "title": "Climb",
+      "items": [
+        "Power \u2013 FULL/SET",
+        "Mixture \u2013 SET (as required)",
+        "Flaps \u2013 UP (positive climb)",
+        "Engine instruments \u2013 MONITOR"
+      ]
+    },
+    {
+      "id": "cruise",
+      "title": "Cruise",
+      "items": [
+        "Power \u2013 SET",
+        "Mixture \u2013 LEAN (per POH)",
+        "Fuel \u2013 BALANCE/CHECK",
+        "Engine instruments \u2013 CHECK",
+        "Nav/Comms \u2013 SET"
+      ]
+    },
+    {
+      "id": "descent",
+      "title": "Descent",
+      "items": [
+        "Altimeter \u2013 SET (QNH)",
+        "Fuel \u2013 BOTH",
+        "Mixture \u2013 ENRICH (as required)",
+        "Carb heat \u2013 AS REQD (if fitted)",
+        "Landing light \u2013 ON"
+      ]
+    },
+    {
+      "id": "before_landing",
+      "title": "Before Landing",
+      "items": [
+        "Seats/Belts \u2013 SECURE",
+        "Fuel \u2013 BOTH",
+        "Mixture \u2013 SET",
+        "Carb heat \u2013 ON (if fitted)",
+        "Flaps \u2013 AS REQUIRED",
+        "Final \u2013 STABLE APPROACH"
+      ]
+    },
+    {
+      "id": "after_landing",
+      "title": "After Landing",
+      "items": [
+        "Flaps \u2013 UP",
+        "Carb heat \u2013 COLD (if fitted)",
+        "Transponder \u2013 STBY",
+        "Landing light \u2013 OFF",
+        "Mixture \u2013 LEAN for taxi"
+      ]
+    },
+    {
+      "id": "shutdown",
+      "title": "Shutdown/Securing",
+      "items": [
+        "Avionics \u2013 OFF",
+        "Mixture \u2013 IDLE CUTOFF",
+        "Magnetos \u2013 OFF/KEY OUT",
+        "Master \u2013 OFF",
+        "Control lock \u2013 INSTALL",
+        "Covers/Tie-downs \u2013 AS REQD"
+      ]
+    },
+    {
+      "id": "emergency",
+      "title": "Emergency (Abbreviated)",
+      "items": [
+        "Engine failure after T/O \u2013 AIRSPEED, LAND AHEAD",
+        "Engine failure in flight \u2013 65 KIAS, SELECT FIELD, FUEL/MIXTURE/CARB HEAT, MAYDAY",
+        "Fire \u2013 FUEL OFF, MIXTURE ICO, MASTER OFF, LAND ASAP",
+        "Electrical \u2013 MASTER OFF (as appropriate)",
+        "Use POH/AFM for full procedures"
+      ]
+    }
+  ]
+}
